@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jack & Alley**
 
 ## Specification
 
@@ -24,7 +24,7 @@
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**This assessment was our first time using the matplotlib library for visualization. With this library, we were able to produce a graph of mutliple particle positions in respect to time. Visualization is important because it allows us to communicate ideas and patterns in data without having to explicitly define what those patterns are. Users can "see" these patterns**
 
 ## Honor Pledge
 
@@ -35,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Jack and Alley**
